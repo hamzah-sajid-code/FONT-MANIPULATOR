@@ -1,0 +1,17 @@
+html{
+    zoom: 100%;
+}
+.headMain{
+    color: white;
+    margin: 0%;
+    font-size: 25px;
+    box-shadow: 5px 5px 10px black;
+}
+.noteinfo{
+    color: black;
+    font-size: 15px;
+}
+canvas{
+    border: 1px solid black;
+    background-color: white;
+}
